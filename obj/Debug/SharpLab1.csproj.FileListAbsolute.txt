@@ -1,0 +1,6 @@
+f:\labki\SharpLab1\SharpLab1\bin\Debug\SharpLab1.exe.config
+f:\labki\SharpLab1\SharpLab1\bin\Debug\SharpLab1.exe
+f:\labki\SharpLab1\SharpLab1\bin\Debug\SharpLab1.pdb
+f:\labki\SharpLab1\SharpLab1\obj\Debug\SharpLab1.csprojResolveAssemblyReference.cache
+f:\labki\SharpLab1\SharpLab1\obj\Debug\SharpLab1.exe
+f:\labki\SharpLab1\SharpLab1\obj\Debug\SharpLab1.pdb
