@@ -10,7 +10,7 @@ namespace SharpLab1
     {
         static bool TryInputVariable(string name, out double result)
         {
-            Console.WriteLine("Введите {0}:", name);
+            Console.Write("Input {0}: ", name);
             return double.TryParse(Console.ReadLine(), out result);
         }
 
